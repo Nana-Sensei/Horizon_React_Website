@@ -1,0 +1,90 @@
+/* @font-face {
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Delicious Handrawn', cursive;
+} */
+
+.navbar-brand {
+  font-size: 2rem;
+  padding-left: 20px;
+}
+
+.bg-dark {
+  background-color: #dd9f22 !important;
+}
+
+.bg-dark:hover {
+  color: #311d0b;
+}
+
+.nav {
+  font-size: 1.2rem;
+  margin-right: 70px;
+}
+
+.see {
+  color: rgb(124, 124, 124);
+  font-weight: 400;
+}
+
+.welcome {
+  font-family:Poppins ;
+  font-size: 70px; 
+  font-weight: 800;
+}
+
+.about-text {
+  font-size: 18px;
+}
+
+.menuTitle {
+  font-family:Poppins ;
+  font-size: 30px; 
+  font-weight: 800; 
+  padding-left: 30px;
+  margin-top: 70px; margin-bottom: 10px;
+}
+
+.cardTitle {
+  font-family: Poppins;
+  font-weight: 700;
+  font-size: 20px;
+  color: black;}
+
+.explore-btn { color: white;
+  background-color:#dd9f22 ;
+  border: none; border-radius: 2px;
+  padding: 8px;
+}
+
+.explore-btn:hover {
+  background-color: #935f2f ;
+}
+
+.card-text {
+  font-size: 18px;
+}
+
+.copyright {
+  font-size: 16px;
+}
+
+.menu-search {
+  padding-left:0px ;
+}
+
+.footer {
+  padding-top: 30px;
+  color: white;
+  margin-top: 60px;
+  background-color: #935f2f;
+  padding-bottom: 30px;
+}
+
+.sub-btn {color: white;
+  background-color: black;
+  border: none;
+}
+
+.sub-btn :hover {
+  background-color: #935f2f;
+}
